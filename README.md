@@ -26,4 +26,4 @@ If you find this work useful, please cite our Pervasive Health paper.
     keywords = {dementia, machine learning, elderly care, activity recognition, pervasive health, brushing teeth, wearable solution, intervention},
     location = {Barcelona, Spain},
     series = {PervasiveHealth '17}
-}```
+}
